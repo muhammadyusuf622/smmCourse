@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react";
+import { useState } from "react";
 import derectorImg from "./assets/images/rahmar.jpg";
 import CourseRec from "./components/CourseRec";
 import LessonCars from "./components/LessonCars";

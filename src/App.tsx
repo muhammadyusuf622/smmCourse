@@ -1,6 +1,6 @@
 import { useState } from "react";
 import derectorImg from "./assets/images/derectorImg.jpg";
-import CourseRec from "./components/courseRec";
+import CourseRec from "./components/CourseRec";
 import LessonCars from "./components/LessonCars";
 import "swiper/css";
 import "swiper/css/pagination";

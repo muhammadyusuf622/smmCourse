@@ -99,7 +99,7 @@ function App() {
 
   return (
     <div className="w-full max-w-[1100px] mx-auto px-4 sm:px-6 lg:px-8">
-      <div className="h-780">
+      <div className="h-980 sm:h-740 lg:h-740">
         {/* Navbar //////////////////////////////////  */}
         <div className="flex flex-row sm:flex-row justify-between items-center mt-5 gap-4 sm:gap-0">
           <p className="text-2xl sm:text-3xl font-bold">SMM.Kurs</p>
@@ -150,7 +150,7 @@ function App() {
 
         {/* Hearder start //////////////////////////////////  */}
         <div className="mt-10 flex flex-col lg:flex-row justify-between items-center gap-8 lg:gap-0">
-          <div className="w-full lg:w-[60%] flex flex-col gap-5">
+          <div className="w-full lg:w-[60%] flex flex-col gap-5 ">
             <div className="flex flex-wrap gap-3 sm:gap-5 items-center">
               <span className="bg-black text-white px-3 sm:px-5 py-1 rounded-full text-sm sm:text-base">
                 Online
@@ -163,7 +163,8 @@ function App() {
               </span>
             </div>
             <h3 className="text-3xl sm:text-4xl lg:text-6xl font-light leading-tight tracking-wide">
-              Lorem, ipsum dolor amet consectetur adipisicing elit. Fuga
+              <p>SMM KURSI</p>
+              NOLDAN BIRINCHI MIJOZGACHA
             </h3>
             <p className="text-base sm:text-lg lg:text-[20px] text-gray-500 w-full lg:w-[80%]">
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde
